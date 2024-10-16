@@ -7,7 +7,7 @@ Kathleen J. Pitz<sup>1</sup>, N. Kobun Truelove<sup>1</sup>, Francisco P. Chavez
 
 ## Description
 
-This repository hosts the code and processed data used to create the manuscript.
+This repository hosts data exploration around the 2019 Spring CANON cruise 12S dataset. Finialized scripts and analysis included in the resulting manuscript are forked here: [https://github.com/MBARI-BOG/SoundSequenceDVM](https://github.com/MBARI-BOG/SoundSequenceDVM)
 
 Main analysis scripts:
 
@@ -16,3 +16,4 @@ Main analysis scripts:
 - Fig2_Boxplots_epi_mesopelagic_calculation.R
 - Fig3_Hourly_diel_cycle.R
 - Fig4.R
+
